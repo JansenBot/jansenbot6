@@ -1,6 +1,6 @@
 
   <body>
-<h1 align="center">🔥 𝐉𝚫𝐍𝐒𝚵𝐍 𝐌𝚫𝐊𝚵𝐑 🔥</h1>
+<h1 align="center">🔥 𝐉𝚫𝐍𝐒𝚵𝐍 🔥</h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
