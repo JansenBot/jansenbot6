@@ -1899,8 +1899,18 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             break
             case 'list': case 'menu': case 'help': case '?': {
                 anu = ` 
-*BUGBOT JANSEN MAKER*
-
+┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈
+▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈
+▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈
+┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈
+┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈
+┈┈▕╲▂┊╰━━┻━╱┈┈┈
+┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈
+╭━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━╮
+┃╭┈──────────⩵꙰ཱི࿐
+┃╰─ ͟͟͞ 〘 BUG MENU 〙─➤ ↶↷
+╰━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━͙✩̣̣̣̣
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ★ ${prefix}aefka
 ★ ${prefix}santed
 ★ ${prefix}masszeh
