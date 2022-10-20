@@ -143,9 +143,9 @@ async function startgyzxo666() {
                 }
 
                 if (anu.action == 'add') {
-                    gyzxo666.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `Welcome To ${metadata.subject} @${num.split("@")[0]}` })
+                    gyzxo666.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `HELLO 👋 SELAMAT DATANG DI ${metadata.subject} @${num.split("@")[0]} \nSEMOGA BETAH YA 💪😎\nSUBREK MY YOUTUBE:\nhttps://youtube.com/channel/UCir7aW7p5MIZSjiCi00L7Ig\nADA BANYAK WANGSAF KEBAL DAN SC BOT` })
                 } else if (anu.action == 'remove') {
-                    gyzxo666.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `@${num.split("@")[0]} Leaving To ${metadata.subject}` })
+                    gyzxo666.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `SELAMAT TINGGAL KAWAN 👋\n@${num.split("@")[0]} TELAH KELUAR DARI ${metadata.subject}\nSemoga seluruh amal dan ibadah almarhum/almarhumah diterima di sisi Allah dan semoga keluarga yang ditinggalkan diberi kesabaran serta ketabahan untuk menghadapi ujian ini.\n AMINN🤲` })
                 }
             }
         } catch (err) {
